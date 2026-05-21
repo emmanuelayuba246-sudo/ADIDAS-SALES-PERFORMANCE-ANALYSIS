@@ -1,8 +1,8 @@
 # ADIDAS-SALES-PERFORMANCE-ANALYSIS
 This project was undertaken to bridge that gap transforming raw transactional data into clear, strategic intelligence that can guide decisions on product strategy, channel investment, regional focus, demand forecasting, and retailer management.
-Which product categories generate the highest sales revenue?
-What regions consistently deliver the strongest performance?
-How do sales trends vary across different time periods?
+Which product categories generate the highest sales revenue?,
+What regions consistently deliver the strongest performance?,
+How do sales trends vary across different time periods?,
 What sales method contributed most to revenue generation?
 Understanding the structure of your data before analysis prevents errors and wasted effort. Freezing headers and creating a Table are foundational best practices in Excel.
 
