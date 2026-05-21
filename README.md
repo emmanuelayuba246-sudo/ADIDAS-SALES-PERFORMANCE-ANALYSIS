@@ -7,7 +7,7 @@ What sales method contributed most to revenue generation?
 Understanding the structure of your data before analysis prevents errors and wasted effort. Freezing headers and creating a Table are foundational best practices in Excel.
 
 1. Product Strategy
-Double down on Men’s Street Footwear: It is the #1 product in 4 of 5 regions and the single biggest revenue driver. Increase inventory, marketing spend, and product variation in this category.
+Double down on Men’s Street Footwear: It is the top product in 4 of 5 regions and the single biggest revenue driver. Increase inventory, marketing spend, and product variation in this category.
 Urgently review Women’s Athletic Footwear: It is dead last in every single region. Conduct customer research to understand whether the issue is pricing, design, awareness, or distribution.
 Investigate Men’s Apparel pricing: It has decent unit volumes but the lowest revenue — suggesting aggressive discounting. Review the pricing architecture for this category.
 
@@ -27,6 +27,6 @@ Launch promotions in Q4: Q4 sees a consistent revenue dip after the summer peak.
 Build digital resilience: The 2020 Q4 crash to $27.5M was driven by COVID-19 physical retail disruptions. A stronger online channel acts as a buffer against future retail disruptions.
 
 5. Retailer & Partner Management
-Reduce dependence on West Gear and Foot Locker: Two retailers represent 51% of all revenue — a significant concentration risk. Develop strategies to grow Amazon, Kohl’s and Walmart.
+Reduce dependence on West Gear and Foot Locker: Two retailers represent 51% of all revenue a significant concentration risk. Develop strategies to grow Amazon, Kohl’s and Walmart.
 Investigate Walmart’s underperformance: Walmart is the world’s largest retailer but Adidas’ worst-performing partner. Review product mix, placement, pricing, and marketing support provided to Walmart.
 Grow Amazon: Amazon’s online-native model aligns perfectly with the finding that the Online channel has the highest margins. Strengthening the Amazon partnership could accelerate the online channel strategy.
