@@ -1,9 +1,5 @@
 # ADIDAS-SALES-PERFORMANCE-ANALYSIS
 
-## Tool used
-- Microsoft Excel
-- Google Sheets
-
   ## Project Overview
 This project was undertaken to bridge that gap transforming raw transactional data into clear, strategic intelligence that can guide decisions on product strategy, channel investment, regional focus, demand forecasting, and retailer management.
 
@@ -43,5 +39,11 @@ Grow Amazon: Amazon’s online-native model aligns perfectly with the finding th
 https://github.com/emmanuelayuba246-sudo/ADIDAS-SALES-PERFORMANCE-ANALYSIS/blob/main/Screenshot%202026-05-22%20052620.png
 
 > click the image above to see a preview of the final dashboard.
+
 # ADIDAS-SALES-PERFORMANCE-ANALYSIS
 This repo contains a begineer sales analysis project done in Excel
+
+## Tool used
+- Microsoft Excel
+- Google Sheets
+
