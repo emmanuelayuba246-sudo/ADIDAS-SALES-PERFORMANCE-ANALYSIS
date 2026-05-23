@@ -39,8 +39,10 @@ Build digital resilience: The 2020 Q4 crash to $27.5M was driven by COVID-19 phy
 Reduce dependence on West Gear and Foot Locker: Two retailers represent 51% of all revenue a significant concentration risk. Develop strategies to grow Amazon, Kohl’s and Walmart.
 Investigate Walmart’s underperformance: Walmart is the world’s largest retailer but Adidas’ worst-performing partner. Review product mix, placement, pricing, and marketing support provided to Walmart.
 Grow Amazon: Amazon’s online-native model aligns perfectly with the finding that the Online channel has the highest margins. Strengthening the Amazon partnership could accelerate the online channel strategy.
-## Preview
+## Preview Dashboard
 https://github.com/emmanuelayuba246-sudo/ADIDAS-SALES-PERFORMANCE-ANALYSIS/blob/main/Screenshot%202026-05-22%20052620.png
+## Preview Project
+https://github.com/emmanuelayuba246-sudo/ADIDAS-SALES-PERFORMANCE-ANALYSIS/upload/main
 
 > click the image above to see a preview of the final dashboard.
 # ADIDAS-SALES-PERFORMANCE-ANALYSIS
