@@ -40,9 +40,6 @@ https://github.com/emmanuelayuba246-sudo/ADIDAS-SALES-PERFORMANCE-ANALYSIS/blob/
 
 > click the image above to see a preview of the final dashboard.
 
-# ADIDAS-SALES-PERFORMANCE-ANALYSIS
-This repo contains a begineer sales analysis project done in Excel
-
 ## Tool used
 - Microsoft Excel
 - Google Sheets
