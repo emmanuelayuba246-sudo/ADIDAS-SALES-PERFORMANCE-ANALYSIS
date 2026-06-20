@@ -38,7 +38,7 @@ Grow Amazon: Amazon’s online-native model aligns perfectly with the finding th
 ## Preview
 https://github.com/emmanuelayuba246-sudo/ADIDAS-SALES-PERFORMANCE-ANALYSIS/blob/main/Screenshot%202026-05-22%20052620.png
 
-> click the image above to see a preview of the final dashboard.
+> click the link above to see a preview of the final dashboard.
 
 ## Tool used
 - Microsoft Excel
